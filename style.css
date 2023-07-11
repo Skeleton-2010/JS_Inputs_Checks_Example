@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#btn{
+    padding: 8px;
+    background-color: #fff;
+    border: 2px solid #000;
+}
+
+#btn:hover{
+    cursor: help;
+}
+
+#input{
+    padding: 8px;
+    background-color: #fff;
+    border: 2px solid #000;
+    transition: 0.4s;
+}
+
+#input:hover{
+    cursor: cell;
+}
+
+#container{
+    margin: 16px;
+}
